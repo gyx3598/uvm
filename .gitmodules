@@ -16,3 +16,6 @@
 [submodule "axi-uvm"]
 	path = axi-uvm
 	url = git@github.com:naragece/axi-uvm.git
+[submodule "AHB2"]
+	path = AHB2
+	url = git@github.com:GodelMachine/AHB2.git
