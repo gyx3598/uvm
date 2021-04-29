@@ -1,0 +1,3 @@
+[submodule "uvmprimer"]
+	path = uvmprimer
+	url = git@github.com:raysalemi/uvmprimer.git
