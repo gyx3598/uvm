@@ -7,3 +7,6 @@
 [submodule "pyuvm"]
 	path = pyuvm
 	url = git@github.com:pyuvm/pyuvm.git
+[submodule "cocotb"]
+	path = cocotb
+	url = git@github.com:cocotb/cocotb.git
