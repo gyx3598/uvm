@@ -10,3 +10,6 @@
 [submodule "cocotb"]
 	path = cocotb
 	url = git@github.com:cocotb/cocotb.git
+[submodule "uvm-testbench-tutorial-simple-adder"]
+	path = uvm-testbench-tutorial-simple-adder
+	url = git@github.com:naragece/uvm-testbench-tutorial-simple-adder.git
