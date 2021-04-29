@@ -4,3 +4,6 @@
 [submodule "uvm-python"]
 	path = uvm-python
 	url = git@github.com:cmarqu/uvm-python.git
+[submodule "pyuvm"]
+	path = pyuvm
+	url = git@github.com:pyuvm/pyuvm.git
