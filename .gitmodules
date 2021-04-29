@@ -1,3 +1,6 @@
 [submodule "uvmprimer"]
 	path = uvmprimer
 	url = git@github.com:raysalemi/uvmprimer.git
+[submodule "uvm-python"]
+	path = uvm-python
+	url = git@github.com:cmarqu/uvm-python.git
