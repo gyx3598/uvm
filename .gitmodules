@@ -13,3 +13,6 @@
 [submodule "uvm-testbench-tutorial-simple-adder"]
 	path = uvm-testbench-tutorial-simple-adder
 	url = git@github.com:naragece/uvm-testbench-tutorial-simple-adder.git
+[submodule "axi-uvm"]
+	path = axi-uvm
+	url = git@github.com:naragece/axi-uvm.git
