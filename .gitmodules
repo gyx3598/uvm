@@ -19,3 +19,6 @@
 [submodule "AHB2"]
 	path = AHB2
 	url = git@github.com:GodelMachine/AHB2.git
+[submodule "axi"]
+	path = axi
+	url = git@github.com:pulp-platform/axi.git
